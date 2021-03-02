@@ -1,0 +1,16 @@
+body{background-color: burlywood;}
+h1{
+    margin-top: 50px;
+    color: rgb(44, 228, 44);
+    text-align: center;
+}
+h2{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    color: rgb(147, 27, 233);
+}
+p{color: rgb(19, 19, 228);
+    margin-left: 50px;
+
+}
